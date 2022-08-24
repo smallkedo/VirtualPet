@@ -7,6 +7,8 @@ void draw(){
   //more of your code here
  
 smooth();
+fill(#0270F2);
+ellipse (400,350,1000,100);
 fill(#E6F702);
 ellipse (200,250,200,200);
 stroke(#050505);
@@ -33,4 +35,3 @@ ellipse (170,110,20,20);
 ellipse (230,110,20,20);
 fill(#FCF000);
 triangle(120,270,50,250,125,200);
-}
